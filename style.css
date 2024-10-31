@@ -23,6 +23,7 @@ img{
     border: 10px;
     border-color: chartreuse;
     border-radius: 10px;
+    box-shadow:60cm;
 }
 .jarjend{
     width:20%;
@@ -38,10 +39,17 @@ img{
     background-color: aquamarine;
     border: 20cm;
     border-radius: 20px;
-    width:33%;
+    width:200px;
     text-align: center;
     height: 100px;
     float:right;
-    padding:20px;
+    padding:80px;
     font-size:x-large;
+    align-self:center;
+    position: static;
+}
+h1{
+    color:darkblue;
+    font-family: fantasy;
+    font-weight: 700;
 }
